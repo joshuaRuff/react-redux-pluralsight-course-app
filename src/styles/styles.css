@@ -1,0 +1,30 @@
+/* Styles */
+#app {
+    font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #4d4d4d;
+    min-width: 550px;
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+a.active {
+    color: orange !important;
+    text-decoration: none !important;
+}
+
+nav {
+    padding-top: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#link {
+    margin: 10px;
+}
+
+h3 {
+    text-align: center;
+
+}
